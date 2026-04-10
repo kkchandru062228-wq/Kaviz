@@ -1,0 +1,35 @@
+{
+  "id": "io.github.kkchandru062228_wq.kaviz",
+  "name": "KAVIZ - Teacher of the World",
+  "short_name": "KAVIZ",
+  "description": "Phonetic-Numeric Mnemonic Encoding System by Kaviyarasu Thangarasu",
+  "start_url": "/Kaviz/",
+  "scope": "/Kaviz/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#7b2ff7",
+  "orientation": "portrait",
+  "lang": "ta",
+  "categories": ["education", "utilities"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "kaviz-screenshot-1.jpg",
+      "type": "image/jpeg",
+      "form_factor": "narrow"
+    }
+  ]
+}
